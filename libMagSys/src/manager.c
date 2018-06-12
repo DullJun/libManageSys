@@ -26,7 +26,7 @@ bool mag_isExist(mag_dlink *head,int num) //判断链表中是否存在该num
 	{
 		if(p->manager_info.num == num)
 		{
-			printf("该num已经存在！\n");
+			printf("该num已经存在！\n");//ll
 			return 1;
 		}
 		p = p->next;

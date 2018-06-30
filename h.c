@@ -1,3 +1,6 @@
-#include "student.h"
-#include "manager.h"
-//hgj
+#include <stdio.h>
+
+int main () {
+	printf("hello https://tool.lu/\n");
+	return 0;
+}
